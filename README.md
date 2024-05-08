@@ -6,3 +6,5 @@ docker-compose up -d
 # Write log to folder in server
 # Config logstash read file for folder log
 # Setup kibana read data from ES
+
+![alt text](image.png)
